@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ItP_game.dir/main.cpp.o  -o ItP_game.exe -Wl,--out-implib,libItP_game.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/MainFolder/programmes/CLIonProjects/ItP_game/main.cpp
+iostream
+-
+fstream
+-
+tuple
+-
+thread
+-
+chrono
+-
+vector
+-
+set
+-
+map
+-
+regex
+-
+random
+-
+
